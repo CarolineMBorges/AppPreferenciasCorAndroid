@@ -1,0 +1,2 @@
+Esse aplicativo altera a cor de fundo da tela do usuário quando ele escolhe uma cor através do RadioButton,
+Para essa modificação de dados ele usa o  SharedPreferences
